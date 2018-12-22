@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=ma.othmane.autoconfig.HelloAutoConfiguration
+
+org.springframework.boot.diagnostics.FailureAnalyzer=ma.othmane.autoconfig.InvalidPrefixFailureAnalyzer
